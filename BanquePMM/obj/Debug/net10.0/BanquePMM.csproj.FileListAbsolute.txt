@@ -1,0 +1,11 @@
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/bin/Debug/net10.0/BanquePMM.deps.json
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/bin/Debug/net10.0/BanquePMM.dll
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/bin/Debug/net10.0/BanquePMM.pdb
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.AssemblyInfoInputs.cache
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.AssemblyInfo.cs
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.csproj.CoreCompileInputs.cache
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.dll
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/refint/BanquePMM.dll
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/BanquePMM.pdb
+/Users/moisemb/RiderProjects/BanquePMM/BanquePMM/obj/Debug/net10.0/ref/BanquePMM.dll
